@@ -7,7 +7,7 @@ https://66d55e7419b03daf78c6b442--taupe-duckanoo-398e51.netlify.app/
 
 ## Overview
 
-This project aims to ensure the quality and functionality of the Reebok application through comprehensive manual testing. The focus is on delivering a high-quality product that meets user requirements and enhances user experience.
+This project aims to ensure the quality and functionality of the Resume Flow  application through comprehensive manual testing. The focus is on delivering a high-quality product that meets user requirements and enhances user experience.
 
 ## Test Plan
 Objective: The primary goal is to ensure the Reebok Website functions as intended and meets all specified requirements.
